@@ -1,0 +1,5 @@
+{
+  "name": "AI Legal Document Analyzer",
+  "description": "An AI-powered tool to upload and analyze legal documents, uncovering hidden risks, unusual clauses, and providing plain-language insights in seconds.",
+  "requestFramePermissions": []
+}
